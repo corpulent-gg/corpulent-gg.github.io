@@ -2574,7 +2574,7 @@ ul {
   position: relative;
   background-image: url(../img/kelthuzad.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  /* background-size: contain; */
   background-position: left;
 }
 
