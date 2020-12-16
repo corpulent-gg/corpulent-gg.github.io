@@ -733,7 +733,7 @@ ul {
 
 /* line 10, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .blog_area a {
-  color: #666666 !important;
+  color: #dee2e6 !important;
   text-decoration: none;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -746,12 +746,12 @@ ul {
 
 /* line 18, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .blog_area p {
-  color: #888888;
+  color: #f8f9fa;
 }
 
 /* line 21, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .blog_area h1, .blog_area h2, .blog_area h3, .blog_area h4, .blog_area h5, .blog_area h6 {
-  color: #2f2d4e;
+  color: #f8f9fa;
 }
 
 /* line 26, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
@@ -1662,7 +1662,7 @@ ul {
   background: rgba(130, 139, 178, 0.1);
   padding: 15px;
   line-height: 1.733;
-  color: #888888;
+  color: #f8f9fa;
   font-style: italic;
   margin-top: 25px;
   margin-bottom: 25px;
@@ -1677,7 +1677,7 @@ ul {
 
 /* line 1100, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .single-post-area .quotes {
-  background: #fff;
+  background: #000;
   padding: 15px 15px 15px 20px;
   border-left: 2px solid;
 }
@@ -6148,7 +6148,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/breadcrumb.png");
+  background-image: url("../img/4h.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
